@@ -1,3 +1,4 @@
+
 # Customer Churn Analysis — Databel Telecom (Power BI)
 
 ## Overview
@@ -43,6 +44,11 @@ investigation across customer segments, and dashboard-style reporting for stakeh
 - What can Databel do to reduce churn?
 
 ---
+
+<img width="1439" height="807" alt="Screenshot 2026-05-17 000352" src="https://github.com/user-attachments/assets/131447fb-a849-4a85-a343-e686204b3ffe" />
+<img width="1388" height="810" alt="Screenshot 2026-05-17 000253" src="https://github.com/user-attachments/assets/689067bc-e718-44f0-8869-7e2ca395a47a" />
+<img width="1444" height="804" alt="Screenshot 2026-05-17 000309" src="https://github.com/user-attachments/assets/f124df96-201e-440b-997a-80f3f5e9184e" />
+<img width="1439" height="805" alt="Screenshot 2026-05-17 000330" src="https://github.com/user-attachments/assets/6904a024-fea0-42d1-8d47-fe216dda599b" />
 
 ## Files
 
